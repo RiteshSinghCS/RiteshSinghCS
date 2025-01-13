@@ -10,9 +10,9 @@
 ---
 
 ## 📈 My GitHub Stats
-![Ritesh's GitHub Stats](https://github.com/RiteshSinghCS)
+![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshSinghCS&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSinghCS&layout=compact&theme=radical)
 
 ---
 
