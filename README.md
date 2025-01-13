@@ -17,9 +17,9 @@
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riteshkumarsinghcs/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:riteshsingh51716@gmail.com)
 
 ---
 
