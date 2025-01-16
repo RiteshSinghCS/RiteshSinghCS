@@ -28,7 +28,6 @@
 - **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Frameworks**: React.js, Next.js, Tailwind CSS, Bootstrap
 - **State Management**: Redux, Context API
-- **Design Tools**: Figma, Adobe XD
 
 ### 🛠️ Tools
 - **Version Control**: Git, GitHub
