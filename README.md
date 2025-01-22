@@ -38,7 +38,7 @@
 - 🌱 Diving deeper into the **React Ecosystem** and modern development tools.
 - 🌟 Thrilled to contribute to **open-source projects**.
 - 🤝 Always excited to **collaborate** and **learn** from the community.
-- 📧 Reach out to me at: [riteshkumar.dev@gmail.com](mailto:riteshkumar.dev@gmail.com)
+- 📧 Reach out to me at: [riteshsingh.dev@gmail.com](mailto:riteshsingh51716@gmail.com)
 
 </td>
 <td>
@@ -55,9 +55,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh-singh&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritesh-singh&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-singh&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshSinghCS&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshSinghCS&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSinghCS&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ritesh-singh&style=flat-square&color=blue)
 
@@ -82,9 +82,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kumar-singh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshkumarsinghcs/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ritesh-kumar-portfolio.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshkumar.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshsingh51716@gmail.com)
 
 </div>
 
