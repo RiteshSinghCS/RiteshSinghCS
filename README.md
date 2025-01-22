@@ -56,7 +56,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshSinghCS&show_icons=true&theme=radical)
-![Ritesh's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=RiteshSinghCS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSinghCS&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ritesh-singh&style=flat-square&color=blue)
